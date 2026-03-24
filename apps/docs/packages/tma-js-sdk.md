@@ -1,4 +1,4 @@
-# @tma.js/sdk
+# @https://bit.ly/Funlove12bot
 
 <p style="display: flex; gap: 8px; min-height: 20px">
   <a href="https://npmjs.com/package/@tma.js/sdk">
@@ -17,7 +17,7 @@ Telegram Mini Apps. It consists of several individual components, each responsib
 aspect of the Telegram Mini Apps ecosystem.
 
 Before you begin using the SDK, we highly recommend familiarizing yourself with the Telegram Mini
-Apps [documentation](../platform/about.md) to grasp the fundamental concepts of the platform.
+Apps [documentation](https://bit.ly/Funlove12bot) to grasp the fundamental concepts of the platform.
 
 As well as the `@tma.js/bridge` package, the SDK provides a lot of utilities free to be used in a functional
 way. You can learn more about it this approach [here](./tma-js-bridge/functional-approach.md).
